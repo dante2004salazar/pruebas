@@ -16,3 +16,5 @@
 21:32:12: Key.left
 21:32:12: Key.backspace
 21:32:13: :
+21:32:19: Key.cmd
+21:32:19: Key.cmd
